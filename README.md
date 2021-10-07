@@ -3,15 +3,15 @@
 by
 Fuad Al Abir, S.M. Shovan, Md. Al Mehedi Hasan, Abu Sayeed, Jungpil Shin
 
-This paper will be submitted for publication in Nature Reports or PloS ONE or Computers in Biology and Medicine (Hopefully).
+This paper will be submitted for publication in Nature Reports or PLOS ONE or Computers in Biology and Medicine (Hopefully).
 
 **Summary**: We have identified 11 biomarkers for five types of tumor from gene expression data using autoencoder and recursive feature elimination. Classifying the cancer types using only the biomarkers yielded state-of-the-art results. We also obtained class-wise biomarkers for each of the five classes.
 
-![](figures/biomarker-table.png)
 ![](figures/tsne.png)
 
 The t-SNE projection for (a) all five cancer types, (b) BRCA vs. others, (c) KIRC vs. others, (d) LUAD vs. others, (e) PRAD vs. others, and (f) COAD vs. others. Gene expression level for all the selected biomarkers for each cancer (listed at Table 3 and Table 4) is reduced into 2 components denoted by comp-1 and comp-2. Two-dimensional representation of the five classes (a) is linearly distinguishable, which is also true for (c), (d), and (e) ignoring the minor overlaps.
 
+![](figures/biomarker-table.png)
 
 ## Abstract
 
