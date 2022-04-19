@@ -27,8 +27,11 @@ You can download a copy of all the files in this repository by cloning the git r
 
     git clone https://github.com/fuad021/biomarker-identification.git
 
-## Dependencies
-We have used google colab in this project for free GPU support. If anyone wish to create a similay environment, requirement is listed in `requirement.txt` file which was generated using `pip freeze > requirements.txt`.
+## Dataset
+All the primary and independent datasets used in this study can be found here: https://drive.google.com/drive/folders/1qugY2wVqW9aFfHCawFPKibIdHSz06Jdd?usp=sharing
+    
+<!-- ## Dependencies -->
+<!-- We have used google colab in this project for free GPU support. If anyone wish to create a similay environment, requirement is listed in `requirement.txt` file which was generated using `pip freeze > requirements.txt`. -->
 
 ## Reproducing the results
 Following the instruction provided in the notebook will be sufficient to reproducing the results.
